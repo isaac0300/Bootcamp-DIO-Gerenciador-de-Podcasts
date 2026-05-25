@@ -1,2 +1,19 @@
-# Bootcamp-DIO-Gerenciador-de-Podcasts
-Projeto desenvolvido no bootcamp da DIO: uma API REST para listar e filtrar episódios de podcasts em vídeo. Criada com Node.js puro e TypeScript, sem Express, utilizando dados de um JSON local e arquitetura em camadas com rotas, controllers, services e repositories para praticar HTTP e criação de APIs.
+# Podcast API
+
+API REST simples para listar e filtrar episódios de podcasts em vídeo, desenvolvida com Node.js puro e TypeScript, sem utilização de frameworks como Express.
+
+## Funcionalidades
+
+- Listar episódios de podcasts
+- Filtrar episódios pelo nome do podcast
+
+## Tecnologias Utilizadas
+
+- Node.js
+- TypeScript
+- TSX
+- TSUP
+
+## Objetivo do Projeto
+
+O projeto foi desenvolvido com o objetivo de praticar a criação de APIs REST utilizando Node.js puro e TypeScript, explorando conceitos de HTTP, rotas e arquitetura em camadas com controllers, services e repositories. A aplicação utiliza um arquivo JSON local como fonte de dados, auxiliando no aprendizado de organização e estruturação de projetos backend.
