@@ -4,35 +4,45 @@
     src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
     width="100px" 
   />
-
-  <h1>Gerenciador de Podcasts</h1>
-
-  <p>
-    Projeto desenvolvido durante a trilha da DIO, API REST simples para listar e filtrar episódios de podcasts em vídeo, desenvolvida com Node.js puro e TypeScript, sem utilização de frameworks como Express.
-  </p>
 </div>
-<!--END_SECTION:header-->
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-</p>
+# Gerenciador de Podcasts
 
-# Podcast API
+Projeto de estudo desenvolvido durante o bootcamp da **DIO (Digital Innovation One)**.
 
-API REST criada para listar e filtrar episódios de podcasts em vídeo, utilizando Node.js puro e TypeScript, sem o uso de frameworks HTTP como o Express.
+A aplicação consiste em uma API para gerenciamento e consulta de episódios de podcasts, desenvolvida utilizando **Node.js e TypeScript**.
+
+## Sobre o projeto
+
+Este projeto foi desenvolvido acompanhando as videoaulas do bootcamp, reproduzindo os exemplos apresentados pelo professor e praticando os conceitos demonstrados durante as aulas.
+
+O objetivo principal foi ter contato com o desenvolvimento de APIs utilizando Node.js e compreender como organizar uma aplicação backend.
 
 ## Funcionalidades
 
 - Listar episódios de podcasts
-- Filtrar episódios pelo nome do podcast
+- Filtrar episódios
+- Consultar informações dos episódios
 
-## Tecnologias Utilizadas
+## Tecnologias
 
 - Node.js
 - TypeScript
-- TSX
-- TSUP
 
-## Objetivo do Projeto
+## Conceitos estudados
 
-O projeto foi desenvolvido com o objetivo de praticar a criação de APIs REST utilizando Node.js puro e TypeScript, explorando conceitos de HTTP, rotas e arquitetura em camadas com controllers, services e repositories. A aplicação utiliza um arquivo JSON local como fonte de dados, auxiliando no aprendizado de organização e estruturação de projetos backend.
+- APIs
+- Rotas e endpoints
+- Requisições HTTP
+- Organização de código
+- Controllers
+- Services
+- Repositories
+- Manipulação de dados
+- Desenvolvimento backend com Node.js
+
+## Contexto
+
+Projeto desenvolvido como parte do bootcamp da DIO, acompanhando as explicações e exemplos apresentados durante as aulas.
+
+Este repositório faz parte do meu histórico de estudos e representa meu contato inicial com conceitos de desenvolvimento backend e APIs.
