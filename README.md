@@ -60,7 +60,3 @@ A aplicação possui uma organização dividida em diferentes responsabilidades:
 Projeto desenvolvido como parte do bootcamp da DIO, acompanhando as explicações e exemplos apresentados durante as aulas.
 
 Este repositório faz parte do meu histórico de estudos e representa um dos meus primeiros contatos com desenvolvimento backend utilizando Node.js e TypeScript.
-
-## Próximos passos
-
-Pretendo revisar este projeto futuramente para compreender melhor cada parte do código, realizar alterações de forma independente e adicionar novas funcionalidades.
